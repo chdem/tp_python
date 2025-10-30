@@ -1,0 +1,2 @@
+class DocumentDejaEmpprunteException(Exception):
+    pass
